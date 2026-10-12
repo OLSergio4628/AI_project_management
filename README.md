@@ -1,1 +1,2 @@
 # AI_project_management
+A continuación tienes un Cuaderno Colab completo y comentado que implementa tres modelos preentrenados de Hugging Face para un caso de uso de clasificación de imágenes (visión por computadora) sobre CIFAR‑10 como dataset de ejemplo. El cuaderno incluye: configuración GPU, instalación de dependencias, autenticación en HF Hub, carga de modelos y dataset, pipeline de inferencia, cálculo de métricas (accuracy, precision, recall, F1), medición de latencia, tablas resumen y conclusiones parciales.
